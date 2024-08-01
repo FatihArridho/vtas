@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vtas/static/css/main.a50c21e0.css",
+    "main.js": "/vtas/static/js/main.16c904ee.js",
+    "static/js/453.a26269e9.chunk.js": "/vtas/static/js/453.a26269e9.chunk.js",
+    "static/media/bg.png": "/vtas/static/media/bg.6eca7e77875bef9d7d5c.png",
+    "static/media/VTAAA.png": "/vtas/static/media/VTAAA.bf62951b862d7b5d7cdd.png",
+    "static/media/custom-appdev.png": "/vtas/static/media/custom-appdev.91b3a14cff9fc0ccbf67.png",
+    "static/media/ERP.png": "/vtas/static/media/ERP.b39c00d5d3f49093dd3d.png",
+    "static/media/RFID.png": "/vtas/static/media/RFID.7d373ad9d4f611a2322e.png",
+    "static/media/slick.svg": "/vtas/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/vtas/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/vtas/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/vtas/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/vtas/index.html",
+    "main.a50c21e0.css.map": "/vtas/static/css/main.a50c21e0.css.map",
+    "main.16c904ee.js.map": "/vtas/static/js/main.16c904ee.js.map",
+    "453.a26269e9.chunk.js.map": "/vtas/static/js/453.a26269e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50c21e0.css",
+    "static/js/main.16c904ee.js"
+  ]
+}
